@@ -4,7 +4,7 @@
 int main()
 {
 	// Initialize the alpha engine
-	if(AESysInit("CS255 - Space Invaders with Object Pooling") == false)
+	if(AESysInit("CS255 - Particle System with memory management") == false)
 	{
 		return 0;
 	}
